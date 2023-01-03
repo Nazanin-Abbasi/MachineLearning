@@ -5,8 +5,7 @@
 
 ## Description
 
-Machine Learning project is a project that another sutdent and I have developed with Python for one of our courses at Alzahra University.
-In this project, first we have loaded a dataset, then we have analyzed the data and finally defined classification, clustering, and regression on our dataset.
+The Machine Learning project is a project that another student and I have developed with Python for one of our courses at Alzahra University. In this project, first, we have loaded a dataset, then we have analyzed the data, and finally defined classification, clustering, and regression on our dataset.
 
 ### Dataset
 
@@ -16,7 +15,7 @@ Here is the output of loading the data in a Dataframe:
 
 ### Analysis
 
-Here is analysis of the dataset:
+Here is the analysis of the dataset:
 
 ![04](https://user-images.githubusercontent.com/120925422/210334783-b06293e4-d209-4f3f-8585-028f49aeca2a.PNG)
 ![06](https://user-images.githubusercontent.com/120925422/210343108-cc376c28-1714-4555-98d9-820e7b3edcb9.PNG)
